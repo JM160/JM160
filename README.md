@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  🎯 Foco em Desenvolvimento Backend • 🧩 Interesses: projetos sustentáveis, IA e sistemas de gestão • 📚 Estudante em escola profissionalizante • 🎮 Apaixonado por jogos
+  🎯 Foco em Desenvolvimento Backend • 🧩 Interesses: projetos sustentáveis, IA e sistemas de gestão • 📚 Estudante em escola profissionalizante • 🎮 Apaixonado por jogos • 💻 Atualmente terminando minha formação em Técnico em Desenvolvimento de Sistemas pela EEEP José Vidal Alves
 </p>
 
 <p align="center">
