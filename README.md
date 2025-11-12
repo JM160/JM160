@@ -15,7 +15,9 @@
 </p>
 
 <p align="center">
-  🎯 Foco em Desenvolvimento Backend • 🧩 Interesses: projetos sustentáveis, IA e sistemas de gestão • 📚 Estudante em escola profissionalizante • 🎮 Apaixonado por jogos • 💻 Atualmente terminando minha formação em Técnico em Desenvolvimento de Sistemas pela EEEP José Vidal Alves
+  Aspirante da Turma 7 Alpha Ed-Tech, promovido pelo Instituto Alpha Lumen e terminando minha formação como Técnico em Desenvolvimento de Sistemas, pela E.E.E.P José Vidal Alves.
+  Tenho interesse em projetos Back-End e tenho como linguagens principais o Python e o PHP.
+  Busco sempre melhorar meus conhecimentos na área de tecnologia e novas oportunidades de aprender.
 </p>
 
 <p align="center">
