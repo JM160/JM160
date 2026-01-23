@@ -63,5 +63,5 @@
 </div>
 
 <p align="center">
-  📫 Contato: <a href="mailto:jmatheus.andrade1507@gmail.com">jmatheus.andrade1507@gmail.com</a> • Discord: <a href="https://discordapp.com/users/lost_undeadofc">lost_undeadofc</a> • Linkedin: <a href="www.linkedin.com/in/joão-matheus-pereira-andrade-6b3373397">João Matheus</a>
+  📫 Contato: <a href="mailto:jmatheus.andrade1507@gmail.com">jmatheus.andrade1507@gmail.com</a> • Discord: <a href="https://discordapp.com/users/lost_undeadofc">lost_undeadofc</a> • Linkedin: <a href="www.linkedin.com/in/jm160">João Matheus</a>
 </p>
