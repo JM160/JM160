@@ -15,16 +15,18 @@
 </p>
 
 <p align="center">
-  Aspirante da Turma 7 Alpha Ed-Tech, promovido pelo Instituto Alpha Lumen e terminando minha formação como Técnico em Desenvolvimento de Sistemas, pela E.E.E.P José Vidal Alves.
-  Tenho interesse em projetos Back-End e tenho como linguagens principais o Python e o PHP.
-  Busco sempre melhorar meus conhecimentos na área de tecnologia e novas oportunidades de aprender.
+  Cursando Bacharelado em Sistemas da Informação - UFC <br>
+  Técnico em Desenvolvimento de Sistemas <br>
+  Desenvolvedor FullStack <br>
 </p>
 
 <p align="center">
   <img height="28" src="https://img.shields.io/badge/PHP-1F6FEB?style=for-the-badge&logo=php&logoColor=white">
   <img height="28" src="https://img.shields.io/badge/Python-1F6FEB?style=for-the-badge&logo=python&logoColor=white">
+  <img height="28" src="https://img.shields.io/badge/Typescript-1F6FEB?style=for-the-badge&logo=typescript&logoColor=white">
   <img height="28" src="https://img.shields.io/badge/MySQL-1F6FEB?style=for-the-badge&logo=mysql&logoColor=white">
   <img height="28" src="https://img.shields.io/badge/Git-1F6FEB?style=for-the-badge&logo=git&logoColor=white">
+  <img height="28" src="https://img.shields.io/badge/Linux-1F6FEB?style=for-the-badge&logo=linux&logoColor=white">
 </p>
 
 <div align="center">
