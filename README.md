@@ -1,69 +1,57 @@
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=0A66C2&center=true&vCenter=true&width=500&lines=Backend+Developer;Amante+de+tecnologia;Sempre+aprendendo+algo+novo"
-    alt="Typing SVG"
-  />
-</p>
-
-<p align="center">
-  <a href="mailto:jmatheus.andrade1507@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://discordapp.com/users/lost_undeadofc">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-1F6FEB?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-</p>
-
-<p align="center">
-  Cursando Bacharelado em Sistemas da Informação - UFC <br>
-  Técnico em Desenvolvimento de Sistemas <br>
-  Desenvolvedor FullStack <br>
-</p>
-
-<p align="center">
-  <img height="28" src="https://img.shields.io/badge/PHP-1F6FEB?style=for-the-badge&logo=php&logoColor=white">
-  <img height="28" src="https://img.shields.io/badge/Python-1F6FEB?style=for-the-badge&logo=python&logoColor=white">
-  <img height="28" src="https://img.shields.io/badge/Typescript-1F6FEB?style=for-the-badge&logo=typescript&logoColor=white">
-  <img height="28" src="https://img.shields.io/badge/MySQL-1F6FEB?style=for-the-badge&logo=mysql&logoColor=white">
-  <img height="28" src="https://img.shields.io/badge/Git-1F6FEB?style=for-the-badge&logo=git&logoColor=white">
-  <img height="28" src="https://img.shields.io/badge/Linux-1F6FEB?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%">
 </p>
 
 <div align="center">
-
-<table>
-<tr>
-  <td>
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=JM160&show_icons=true&rank_icon=github&bg_color=1A1A1A&title_color=0A66C2&text_color=334155&icon_color=1F6FEB&border_color=1F6FEB"
-      alt="GitHub Stats"
-      height="170"
-    />
-  </td>
-  <td>
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JM160&layout=compact&langs_count=8&bg_color=1A1A1A&title_color=0A66C2&text_color=334155&border_color=1F6FEB"
-      alt="Top Languages"
-      height="170"
-    />
-  </td>
-</tr>
-<tr>
-  <td>
-    <img
-      src="https://streak-stats.demolab.com?user=JM160&theme=dark&hide_border=false&ring=0A66C2&fire=1F6FEB&currStreakLabel=0A66C2&sideNums=334155&dates=64748B&sideLabels=1F6FEB"
-      alt="GitHub Streak"
-      height="170"
-    />
-  </td>
-  <td>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JM160&theme=dark" alt="Gráfico de produtividade" height="170">
-  </td>
-</tr>
-</table>
+  
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 </div>
 
 <p align="center">
-  📫 Contato: <a href="mailto:jmatheus.andrade1507@gmail.com">jmatheus.andrade1507@gmail.com</a> • Discord: <a href="https://discordapp.com/users/lost_undeadofc">lost_undeadofc</a> • Linkedin: <a href="www.linkedin.com/in/jm160">João Matheus</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=0A66C2&center=true&vCenter=true&width=500&lines=Backend+Developer;TS+%2B+Node+%2B+Linux;Estudante+de+Sistemas+da+Informa%C3%A7%C3%A3o;C+%2B+Computer+Vision"/> 
 </p>
+
+## 🚀 Sobre mim
+- 🎓 Cursando **Bacharelado em Sistemas da Informação** pela **UFC**
+- 🛠️ Atualmente focado no ecossistema **Backend** com **TypeScript, Node.js e Linux**
+- 👁️ Estudando a linguagem **C** e suas aplicações práticas para **Visão Computacional**
+- 📧 Contato: **jmatheus.andrade1507@gmail.com**
+
+<p align="left">
+<a href="https://www.linkedin.com/in/jm160"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:jmatheus.andrade1507@gmail.com"><img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://discordapp.com/users/lost_undeadofc"><img src="https://img.shields.io/badge/Discord-1F6FEB?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+
+## 🛠️ Linguagens e Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,c,linux,mysql,git,bash,py,html,css,vscode,postman,docker&theme=dark" />
+</p>
+
+## 📊 Minhas estatísticas
+
+| ![Stats Profile](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JM160&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JM160&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JM160&theme=tokyonight) |
+| :-: | :-: | :-: |
+
+## 📈 Minha atividade atualmente
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JM160&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=JM160&hide_border=true&background=0F0A1F&stroke=0A66C2&ring=1F6FEB&fire=1F6FEB&currStreakNum=FFFFFF&sideNums=1F6FEB&currStreakLabel=1F6FEB&sideLabels=FFFFFF&dates=AAAAAA)
+
+</div>
+
+## 📉 Gráfico de Commits
+<div align="center"> 
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JM160&bg_color=0F0A1F&color=1F6FEB&line=0A66C2&point=FFFFFF&area=true&area_color=0A66C2&hide_border=true"/>
+
+</div>
+
+<div>
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=0A66C2" />
+</div>
