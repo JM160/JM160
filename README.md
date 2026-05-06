@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=João%20Matheus&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%">
 </p>
 
 <div align="center">
@@ -27,7 +27,7 @@
 ## 🛠️ Linguagens e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,c,linux,mysql,git,bash,py,html,css,vscode,postman,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,c,linux,mysql,git,bash,py,vscode,postman,docker,obsidian&theme=dark" />
 </p>
 
 ## 📊 Minhas estatísticas
